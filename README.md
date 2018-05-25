@@ -4,7 +4,9 @@ Shopify Scripts are small pieces of code that allow you to create personalized e
 
 Scripts are maintained, edited and published on a store by using the [Script Editor](https://help.shopify.com/manual/apps/apps-by-shopify/script-editor).
 
-**Warning**: Shopify Gurus or Plus Success Managers do not support Scripts, they are a Plus only feature that are intended to provide extended functionality, and should only be implemented and/or altered by professional developers. If you are a Plus Merchant please contact your MSM and ask for an introduction to a partner.
+---
+
+**Warning**: Shopify Gurus & Plus Success Managers do not support Scripts, they are a Plus only feature that are intended to provide extended functionality, and should only be implemented and/or altered by professional developers. If you are a Plus Merchant please contact your MSM and ask for an introduction to a partner.
 
 ---
 
@@ -28,8 +30,9 @@ Scripts are maintained, edited and published on a store by using the [Script Edi
 1. [Discount for buyers with tag](/Line-Item/block-code/readme.md)
 2. [Free shipping for buyer with tag](/Line-Item/free-shipping-with-tag/readme.md)
 3. [Block discount code](/Line-Item/block-code/readme.md)
-3. [Tiered by spending threshold](/Line-Item/tiered-by-spending-threshold/readme.md)
-3. [Tiered bulk buy](/Line-Item/tiered-bulk-buy/readme.md)
+4. [Tiered by spending threshold](/Line-Item/tiered-by-spending-threshold/readme.md)
+5. [Tiered bulk buy](/Line-Item/tiered-bulk-buy/readme.md)
+6. [Restrict products by vendor and country](/Line-Item/conditional-remove-by-vendor-and-country/readme.md)
 
 ### Payment
 
