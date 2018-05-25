@@ -2,7 +2,7 @@
 
 Shopify Scripts are customizations written in Ruby that allow you to create personalized customer experiences. Using line item, shipping, and payment scripts you can implement custom logic and tailor the user experience during a customer’s checkout journey. Scripts are enabled on a store’s checkout by using the [Script Editor](https://help.shopify.com/manual/apps/apps-by-shopify/script-editor) app.
 
-_This repository is administered by Shopify for the purposes of collaboration among our community of merchants and partners. However, scripts submitted are not vetted or supported by Shopify or your Merchant Success Manager. Equally, while we do not guarantee support for scripts from the original contributor, please get in touch with them in the first instance with any issues or questions._
+**Warning**: Shopify does not support Scripts, they are a Plus only feature that are intended to provide extended functionality, and should only be implemented and/or altered by professional developers. If you are a Plus Merchant please contact your MSM and ask for an introduction to a partner.
 
 Read the [License for more information](https://github.com/Shopify/shopify-scripts/blob/master/LICENSE.md).
 
