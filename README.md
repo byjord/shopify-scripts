@@ -25,5 +25,3 @@ When submitting a script:
 - Include your script as a <scriptname>.rb file
 - Submit a Pull Request to have your script added to the repository
 
-## Script Creation Tools
-There are tools out in the wild that aid in the creation of scripts based on plug and play variables. [Jason Godson](https://github.com/jgodson) has created a [Shopify Script Creator](https://jgodson.github.io/shopify-script-creator/) where you can generate scripts and manually paste them into your store. There are also tools like [Disco Labs Playwright](https://playwright.discolabs.com/) that can be integrated into your store as an app.
