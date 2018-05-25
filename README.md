@@ -12,24 +12,24 @@ Scripts are maintained, edited and published on a store by using the [Script Edi
 
 #### Percentage Off
 
-1. [No condition global discount](/blob/master/Line-Item/global-discount/readme.md)
-2. [First time buyers](/blob/master/Line-Item/first-time-buyer/readme.md)
-3. [Accepted marketing, next purchase discount](/blob/master/Line-Item/accepted-marketing-next-purchase/readme.md)
-4. [Least expensive item](/blob/master/Line-Item/least-expensive-item/readme.md)
-5. [Remove VAT for buyers outside of the EU](/blob/master/Line-Item/remove-vat-outside-eu/readme.md)
+1. [No condition global discount](/Line-Item/global-discount/readme.md)
+2. [First time buyers](/Line-Item/first-time-buyer/readme.md)
+3. [Accepted marketing, next purchase discount](/Line-Item/accepted-marketing-next-purchase/readme.md)
+4. [Least expensive item](/Line-Item/least-expensive-item/readme.md)
+5. [Remove VAT for buyers outside of the EU](/Line-Item/remove-vat-outside-eu/readme.md)
 
 #### Free X
 
-1. [Free gift](/blob/master/Line-Item/free-gift/readme.md)
-2. [BOGO](/blob/master/Line-Item/bogo/readme.md)
+1. [Free gift](/Line-Item/free-gift/readme.md)
+2. [BOGO](/Line-Item/bogo/readme.md)
 
 #### Misc
 
-1. [Discount for buyers with tag](/blob/master/Line-Item/block-code/readme.md)
-2. [Free shipping for buyer with tag](/blob/master/Line-Item/free-shipping-with-tag/readme.md)
-3. [Block discount code](/blob/master/Line-Item/block-code/readme.md)
-3. [Tiered by spending threshold](/blob/master/Line-Item/tiered-by-spending-threshold/readme.md)
-3. [Tiered bulk buy](/blob/master/Line-Item/tiered-bulk-buy/readme.md)
+1. [Discount for buyers with tag](/Line-Item/block-code/readme.md)
+2. [Free shipping for buyer with tag](/Line-Item/free-shipping-with-tag/readme.md)
+3. [Block discount code](/Line-Item/block-code/readme.md)
+3. [Tiered by spending threshold](/Line-Item/tiered-by-spending-threshold/readme.md)
+3. [Tiered bulk buy](/Line-Item/tiered-bulk-buy/readme.md)
 
 ### Payment
 
