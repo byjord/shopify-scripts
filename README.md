@@ -14,25 +14,25 @@ Scripts are maintained, edited and published on a store by using the [Script Edi
 
 #### Percentage Off
 
-1. [No condition global discount](/Line-Item/global-discount/readme.md)
-2. [First time buyers](/Line-Item/first-time-buyer/readme.md)
-3. [Accepted marketing, next purchase discount](/Line-Item/accepted-marketing-next-purchase/readme.md)
-4. [Least expensive item](/Line-Item/least-expensive-item/readme.md)
-5. [Remove VAT for buyers outside of the EU](/Line-Item/remove-vat-outside-eu/readme.md)
+1. [No condition global discount](/Line-Item/global-discount)
+2. [First time buyers](/Line-Item/first-time-buyer)
+3. [Accepted marketing, next purchase discount](/Line-Item/accepted-marketing-next-purchase)
+4. [Least expensive item](/Line-Item/least-expensive-item)
+5. [Remove VAT for buyers outside of the EU](/Line-Item/remove-vat-outside-eu)
 
 #### Free X
 
-1. [Free gift](/Line-Item/free-gift/readme.md)
-2. [BOGO](/Line-Item/bogo/readme.md)
+1. [Free gift](/Line-Item/free-gift)
+2. [BOGO](/Line-Item/bogo)
 
 #### Misc
 
-1. [Discount for buyers with tag](/Line-Item/block-code/readme.md)
-2. [Free shipping for buyer with tag](/Line-Item/free-shipping-with-tag/readme.md)
-3. [Block discount code](/Line-Item/block-code/readme.md)
-4. [Tiered by spending threshold](/Line-Item/tiered-by-spending-threshold/readme.md)
-5. [Tiered bulk buy](/Line-Item/tiered-bulk-buy/readme.md)
-6. [Restrict products by vendor and country](/Line-Item/conditional-remove-by-vendor-and-country/readme.md)
+1. [Discount for buyers with tag](/Line-Item/block-code)
+2. [Free shipping for buyer with tag](/Line-Item/free-shipping-with-tag)
+3. [Block discount code](/Line-Item/block-code)
+4. [Tiered by spending threshold](/Line-Item/tiered-by-spending-threshold)
+5. [Tiered bulk buy](/Line-Item/tiered-bulk-buy)
+6. [Restrict products by vendor and country](/Line-Item/conditional-remove-by-vendor-and-country)
 
 ### Payment
 
