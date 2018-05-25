@@ -25,6 +25,12 @@ Scripts are maintained, edited and published on a store by using the [Script Edi
 1. [Free gift](/Line-Item/free-gift)
 2. [BOGO](/Line-Item/bogo)
 
+#### Restricted products
+
+1. [Restrict products by vendor and country](/Line-Item/conditional-remove-by-vendor-and-country)
+2. [Restrict products by vendor and province](/Line-Item/conditional-remove-by-vendor-and-province)
+3. [Restrict products by vendor and city](/Line-Item/conditional-remove-by-vendor-and-city)
+
 #### Misc
 
 1. [Discount for buyers with tag](/Line-Item/block-code)
@@ -32,7 +38,6 @@ Scripts are maintained, edited and published on a store by using the [Script Edi
 3. [Block discount code](/Line-Item/block-code)
 4. [Tiered by spending threshold](/Line-Item/tiered-by-spending-threshold)
 5. [Tiered bulk buy](/Line-Item/tiered-bulk-buy)
-6. [Restrict products by vendor and country](/Line-Item/conditional-remove-by-vendor-and-country)
 
 ### Payment
 
