@@ -41,4 +41,8 @@ Scripts are maintained, edited and published on a store by using the [Script Edi
 
 ### Payment
 
+1. TODO
+
 ### Shipping
+
+1. TODO
