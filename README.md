@@ -46,3 +46,19 @@ Scripts are maintained, edited and published on a store by using the [Script Edi
 ### Shipping
 
 1. TODO
+
+---
+
+Shopify Scripts were developed with a pattern for structuring code in a reusable way; breaking down the application of script logic into Selectors, Partitioners, Discounts, and Campaigns: 
+
+### 1. Selectors
+Objects that identify the line items, shipping rates, or payment gateways that are of interest to your script. For example, a PriceSelector would select line items based on their price, and a TagSelector would select line items based on a product’s tags.
+
+### 2. Partitioners
+Objects that can “split up” line items, shipping rates, or payment gateways based on your script’s needs. For example, if you’re writing a “buy 2, get 1 free” line item script, you can have an InterleavedPartitioner — this splits a line item with a product quantity of 3 into 2 separate line items, with quantities of 2 and 1. Your 100% discount could then be applied to that second line item.
+
+### 3. Discounts 
+Objects that take the line items or shipping rates identified by your selectors and partitioners to apply a discount. You can have a PercentageDiscount applying a percentage off a particular item or shipping rate, or a MoneyDiscount to reduce the price by a fixed amount.
+
+### 4. Campaigns
+The campaign object is the “container” for a specific promotion or discount you want to run. A campaign can be started with one or more selectors, partitioners, and discount objects that work together to implement the overall logic. One Shopify Script can have multiple campaigns running at the same time.
